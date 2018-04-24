@@ -1,20 +1,9 @@
-.container {
-    width: 600px;
+body{
     padding: 10px;
 }
-
-#first {
-    width: 66%;
-
-    margin-right: auto;
-    background-color: yellow;
-    height: 100px;
-}
-
-#second {
-    width: 66%;
-    margin-left: auto;
-    margin-top: 10px;
-    background-color: coral;
-    height: 100px;
+.container {
+    margin: 0 auto;
+    max-width: 600px;
+    padding: 10px;
+    font-size: 14px;
 }
