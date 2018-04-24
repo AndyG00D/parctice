@@ -2,8 +2,24 @@ body{
     padding: 10px;
 }
 .container {
-    margin: 0 auto;
-    max-width: 600px;
     padding: 10px;
     font-size: 14px;
+    height: 200px;
+    background-color: aquamarine;
+}
+
+.yellow{
+    display: inline-block;
+    background-color: yellow;
+    border: 1px solid black;
+    margin-left: 10px;
+    margin-left: -.36em;
+}
+
+.top{
+    vertical-align: top;
+}
+
+.bottom {
+    vertical-align: bottom;
 }
